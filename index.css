@@ -1,0 +1,14 @@
+body {
+    background-color: #ecf0f1;
+  }
+  
+  h1 {
+  }
+
+  .form{
+    display: none;
+  }
+
+  .showing{
+    display: block;
+  }
